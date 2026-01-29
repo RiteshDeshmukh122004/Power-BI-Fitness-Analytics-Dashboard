@@ -68,6 +68,8 @@ Power BI
 Data Visualization & Dashboard Design
 
 DAX  Calculated Measures 
+
+Sample Fitness Dataset
 # Dashboard Preview
 Home Page
 
