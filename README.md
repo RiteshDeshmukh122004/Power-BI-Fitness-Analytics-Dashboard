@@ -57,8 +57,32 @@ Detailed Member Information Table
 
  3 Age
 
-Goal (Weight Loss / Muscle Gain / Maintenance)
+ 4 Goal (Weight Loss / Muscle Gain / Maintenance)
 
-Membership Type
+ 5 Membership Type
 
-BMI
+ 6 BMI
+# Tools & Technologies Used
+Power BI 
+
+Data Visualization & Dashboard Design
+
+DAX  Calculated Measures 
+# Dashboard Preview
+Home Page
+
+Overall Analytics
+
+Fitness Calculator
+
+Members Analysis
+# Key Insights
+Revenue increased monthly with highest profit in November
+
+Platinum membership has the highest number of active users
+
+Majority of members are aged 25–40
+
+Male members dominate gym subscriptions
+
+Many members aim for weight loss and muscle gain
