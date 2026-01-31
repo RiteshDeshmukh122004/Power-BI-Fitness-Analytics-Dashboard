@@ -77,4 +77,4 @@ The Fitness Analytic Dashboard successfully transforms raw fitness and membershi
 By integrating key performance indicators, financial summaries, and health analytics, the project provides a comprehensive view of gym operations and member performance.
 This dashboard enables better decision-making by helping stakeholders monitor client growth, trainer availability, revenue trends, and fitness metrics such as BMI and calorie requirements.
 The inclusion of dynamic theme selection and intuitive navigation enhances user experience while maintaining a professional analytical layout.
-Overall, this project demonstrates strong skills in data analysis, Power BI visualization, DAX calculations, and dashboard UI/UX design, making it a valuable addition to a data analyst portfolio.
+Overall, this project demonstrates strong skills in data analysis, Power BI visualization, Data Cleaning, DAX calculations, Data Mpdeling making it a valuable addition to a data analyst portfolio.
